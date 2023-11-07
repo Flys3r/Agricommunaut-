@@ -19,8 +19,8 @@ Ce projet vise à soutenir les agriculteurs locaux en leur offrant la possibilit
 * Ovh pour héberger le site des agriculteurs
 
 ### Auteurs:
-* Augustin Duval
-* Alexandra Tanguy https://github.com/Alexandra-Tanguy
+* Augustin Duval : https://github.com/Flys3r
+* Alexandra Tanguy : https://github.com/Alexandra-Tanguy
 
 ### Communication:
 
